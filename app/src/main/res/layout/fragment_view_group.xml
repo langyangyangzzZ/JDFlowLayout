@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.ViewGroupFragment">
+
+    <com.example.jd.util.FlowLayout2
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/text_shape"
+            android:padding="10dp"
+            android:text="韩国火鸡面" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:background="@drawable/text_shape"
+            android:text="MAC Book Pro 最新版" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:background="@drawable/text_shape"
+            android:text="空调" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:background="@drawable/text_shape"
+            android:text="男版夏凉裤" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:background="@drawable/text_shape"
+            android:text="无骨鸡爪" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:background="@drawable/text_shape"
+            android:text="香烟" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:background="@drawable/text_shape"
+            android:text="酒" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:background="@drawable/text_shape"
+            android:text="一次性口罩" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:background="@drawable/text_shape"
+            android:text="最新版人民币" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:background="@drawable/text_shape"
+            android:text="啤酒" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:background="@drawable/text_shape"
+            android:text="二锅头" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:background="@drawable/text_shape"
+            android:text="花生" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:background="@drawable/text_shape"
+            android:text="HUAWEI" />
+
+
+    </com.example.jd.util.FlowLayout2>
+
+</LinearLayout>

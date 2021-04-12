@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.ViewGroup2Fragment">
+
+    <com.example.jd.util.FlowLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="50dp"
+            android:layout_marginBottom="50dp"
+            android:background="@drawable/text_shape"
+            android:padding="30dp"
+            android:text="韩国火鸡面" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginTop="30dp"
+            android:text="MAC Book Pro 最新版" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginLeft="30dp"
+            android:text="空调" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginBottom="10dp"
+            android:text="男版夏凉裤" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginLeft="42dp"
+            android:text="无骨鸡爪" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginLeft="41dp"
+            android:text="香烟" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginTop="52dp"
+            android:text="酒" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:text="一次性口罩" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginTop="20dp"
+            android:text="最新版人民币" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginBottom="12dp"
+            android:text="啤酒" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginBottom="20dp"
+            android:text="二锅头" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginTop="13dp"
+            android:text="花生" />
+
+        <TextView
+            style="@style/TextStyle"
+            android:layout_marginRight="532dp"
+            android:text="HUAWEI" />
+
+
+    </com.example.jd.util.FlowLayout>
+
+</RelativeLayout>
